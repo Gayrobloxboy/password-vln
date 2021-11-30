@@ -1,2 +1,2 @@
 # password-vpn
-arkanataya321
+password:arkanataya321
